@@ -8,7 +8,7 @@ Allure report plugin configuration
 >[docs.qameta.io](https://docs.qameta.io/allure/#_testng)
 
 ## Allure Maven Plugin
->[docs.qameta.io](https://docs.qameta.io/allure/#_testng)
+>https://github.com/allure-framework/allure-maven
 
 ## To open Report Automatic Write this command....
 > command line : mvn clean install allure:serve.
